@@ -1,0 +1,23 @@
+.header {
+  margin-top: 1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+}
+
+.nav {
+  display: flex;
+  gap: 1.5rem;
+  font-size: 1.375rem;
+}
+
+.nav li {
+  list-style: none;
+}
+
+.title {
+  font-family: 'Playfair Display', serif;
+  font-weight: 600;
+  font-size: 3rem;
+  color: #ffed5a;
+}
